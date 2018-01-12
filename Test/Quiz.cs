@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Test
 {
-    class Program
+    class Quiz
     {
-        static void Main(string[] args)
-        {
+        private Otazka[] otazky;
 
 
-        }
+
     }
 }
