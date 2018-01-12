@@ -42,7 +42,7 @@ namespace Test
                 new Moznost ("Windows",true),
 
             };
-            Otazky.Add(o);
+            Otazky.Add(m);
 
 
         }
